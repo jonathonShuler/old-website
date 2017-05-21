@@ -1,0 +1,20 @@
+
+body{
+	margin: 0px;
+	background-color: #c0d0ea;
+}
+
+header{
+	height: 100px;
+	background-color: #2471e5;
+}
+
+div{
+	height: 5000px;
+	background-color: #dee8f7;
+}
+
+p{
+	margin-left: 20px;
+}
+
