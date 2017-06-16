@@ -1,20 +1,19 @@
 
 body{
 	margin: 0px;
-	background-color: #c0d0ea;
-}
-
-header{
-	height: 100px;
-	background-color: #2471e5;
-}
-
-div{
-	height: 5000px;
 	background-color: #dee8f7;
+	padding-top: 100px;
 }
 
-p{
-	margin-left: 20px;
+.jumbotron{
+	background-color: white;
 }
 
+.col-sm-6{
+	text-align: center;
+}
+
+#blah{
+	background-color: black;
+	margin-bottom: 0px;
+}
