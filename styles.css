@@ -1,8 +1,13 @@
 
 body{
 	margin: 0px;
-	background-color: #dee8f7;
-	padding-top: 100px;
+	background-color: #e8eef7;
+	padding-top: 75px;
+}
+
+.container .jumbotron{
+	border-radius: 0px;
+	margin-bottom: 5px;
 }
 
 .jumbotron{
@@ -14,6 +19,13 @@ body{
 }
 
 #blah{
-	background-color: black;
+	background-color: #222;
 	margin-bottom: 0px;
+}
+
+#navName{
+	font-family: Times;
+	margin-left: 20px;
+	padding-bottom: 8px;
+	color: white;
 }
