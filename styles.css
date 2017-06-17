@@ -1,21 +1,8 @@
 
 body{
 	margin: 0px;
-	background-color: #e8eef7;
-	padding-top: 75px;
-}
-
-.container .jumbotron{
-	border-radius: 0px;
-	margin-bottom: 5px;
-}
-
-.jumbotron{
 	background-color: white;
-}
-
-.col-sm-6{
-	text-align: center;
+	padding-top: 75px;
 }
 
 #blah{
@@ -23,9 +10,52 @@ body{
 	margin-bottom: 0px;
 }
 
+.break{
+	width: 90%;
+	height: 1px;
+	background-color: black;
+	margin: auto;
+}
+
+.col-lg-6{
+	text-align: center;
+}
+
+.container .jumbotron{
+	border-radius: 2px;
+	margin-bottom: 5px;
+}
+
+#div-title{
+	background-color: white;
+	width: 500px;
+	margin: auto;
+	text-align: center;
+}
+
+#div-title div{
+	width: 10px;
+	height: 10px;
+	background-color: blue;
+	margin: auto;
+}
+
+.jumbotron{
+	background-color: white;
+}
+
+#jumbotron-title{
+	background-color: white;
+}
+
+#jumbotron-title p{
+	margin: 0 0 0 0;
+}
+
 #navName{
 	font-family: Times;
 	margin-left: 20px;
-	padding-bottom: 8px;
 	color: white;
 }
+
+
