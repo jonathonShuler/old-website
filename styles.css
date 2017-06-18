@@ -17,8 +17,9 @@ body{
 	margin: auto;
 }
 
-.col-lg-6{
-	text-align: center;
+.col-lg-6 .title{
+	margin-bottom: 15px;
+	font-size: 40px;
 }
 
 .container .jumbotron{
@@ -34,9 +35,6 @@ body{
 }
 
 #div-title div{
-	width: 10px;
-	height: 10px;
-	background-color: blue;
 	margin: auto;
 }
 
@@ -52,10 +50,13 @@ body{
 	margin: 0 0 0 0;
 }
 
-#navName{
-	font-family: Times;
-	margin-left: 20px;
+.navbar-header{
+	font-size: 30px;
 	color: white;
+	padding-top: 5px;	
 }
 
-
+#title{
+	margin-bottom: 15px;
+	font-size: 45px;
+}
